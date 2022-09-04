@@ -4,4 +4,16 @@
 
 #### For website:
 -----------------
- Tested features:              
+ Tested features:  
+* Registration 
+* Login
+	
+-----------Test Case Summary---------
+
+Total Test Case: 13
+
+Pass: 06
+
+Fail: 07
+
+Warning: 00
