@@ -37,7 +37,10 @@ Fail: 10
  
 Warning: 00
 
-
+#### --------Total Summary----------
+ No. of Features: 02                      
+ No. of Test Cases: 31                           
+ Total Bugs:17
  
 
  
